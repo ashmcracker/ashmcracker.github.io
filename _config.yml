@@ -74,7 +74,7 @@ ga_domain: auto
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "要做一个有 swag 的运维 <br> React Team @ Meta"
-sidebar-avatar: https://github.com/ashmcracker.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://tanhaifeng.oss-cn-guangzhou.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240422215713.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
