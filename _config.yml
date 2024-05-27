@@ -14,9 +14,9 @@ future: true
 # SNS settings
 RSS: false
 weibo_username: ashm
-zhihu_username: ashm
-github_username: ashm
-twitter_username: ashm
+zhihu_username: Ashm
+github_username: ashmcrackerx.com
+twitter_username: TamAshmole
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: ashmcracker-github-io
 
 # Netease settings
 netease_comment: false
@@ -69,9 +69,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
-
+ga_track_id: "G-N330Y7X3W3" # Format: UA-xxxxxx-xx
+ga_domain: auto
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "要做一个有 swag 的运维 <br> React Team @ Meta"
