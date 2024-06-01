@@ -3,7 +3,7 @@ title: ASHM Blog
 SEOTitle: 谭海锋的博客 | Ashm Blog
 header-img: img/home-bg.jpg
 email: ashm.tan@outlook.com
-description: "这里是 @谭海锋 的个人博客，与你一起发现更大的世界 | 要做一个有 快乐的云工程师"
+description: "这里是 @谭海锋 的个人博客，与你一起发现更大的世界 | 要做一个有 快乐的DevOps"
 keyword: "谭海锋,Ashm谭海锋, Ashmole Tam, Ashmcracker, Ashm Tan, @谭海锋, 谭海锋的博客, Ashm Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
 url: "https://ashmcracker.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -73,7 +73,7 @@ ga_track_id: "G-N330Y7X3W3" # Format: UA-xxxxxx-xx
 ga_domain: auto
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的运维 <br> React Team @ Meta"
+sidebar-about-description: "做一个脱离低级趣味的DevOps <br> @Ashmcracker"
 sidebar-avatar: https://tanhaifeng.oss-cn-guangzhou.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240422215713.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
